@@ -1,2 +1,2 @@
-# SNH
-link: https://shuvashishbera.github.io/SNH/
+# SN
+link: https://shuvashishbera.github.io/SN/
